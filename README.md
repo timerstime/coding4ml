@@ -1,2 +1,3 @@
 # coding4ml
 lies in the challenge of coding for 100 days...
+following [100DaysOfMLCode](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
